@@ -1,0 +1,110 @@
+.reso {
+    color:red;
+    background-color: dimgrey;
+    width:1920px;
+    height:10px;
+    position:absolute;
+}
+
+body {
+    background-color: black;
+}
+
+.Logo {
+    background-color: crimson;
+    width:270px;
+    height: 200px; 
+    position:absolute;
+    margin:0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.sitemapbox {
+    background-color: transparent;
+    width:1100px; 
+    height: 80px;
+    position:absolute;
+    top: 60px;
+    left: 290px;
+    align-items: left;
+    margin: 0 0 0 0;
+    padding: 60px 0 0 20px;
+}
+
+.sitemap {
+    color: snow;
+    margin: 0 60px 0 0;
+    font-size: 28px; 
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.introduce {
+    position:absolute;
+    left: 500px;
+}
+
+.introtext {
+    font-family: 'Zilla Slab', serif;
+    position:absolute;
+    left:50px;
+    top:260px;
+    color: snow;
+}
+ 
+h2 {
+    font-family: 'Zilla Slab', serif;
+    color: snow;
+}
+
+h3 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: snow;
+}
+
+p {
+    font-family: 'Zilla Slab', light;
+    color: snow;
+}
+
+.homeP1 {
+    position:absolute;
+    left:70px;
+    top:1500px;
+}
+
+.homeP2 {
+    position:absolute;
+    left:750px;
+    top:1820px;
+}
+
+.homeP3 {
+    position:absolute;
+    left:70px;
+    top:2200px;
+}
+
+h4 {
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: snow;
+}
+
+.projectpara {
+    line-height: 150%;
+    letter-spacing: 1px;
+    font-size:24px;
+    margin-left: 100px;
+}
+
+.linespace {
+    margin:3px
+}
+
+h5 {
+    margin-left: 100px;
+    font-size: 26px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: snow;
+}
